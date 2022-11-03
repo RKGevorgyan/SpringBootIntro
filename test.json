@@ -1,0 +1,86 @@
+[
+  {
+    "id": 2,
+    "name": "Mask",
+    "age": 46,
+    "car": {
+      "id": 6,
+      "model": "Lada",
+      "color": "black",
+      "personId": 2,
+      "person": null
+    }
+  },
+  {
+    "id": 4,
+    "name": "Mark",
+    "age": 26,
+    "car": {
+      "id": 2,
+      "model": "BMW",
+      "color": "White",
+      "personId": 4,
+      "person": null
+    }
+  },
+  {
+    "id": 38,
+    "name": "Vladimir",
+    "age": 76,
+    "car": {
+      "id": 9,
+      "model": "Ferrari",
+      "color": "red",
+      "personId": null,
+      "person": null
+    }
+  },
+  {
+    "id": 40,
+    "name": "Vladimir",
+    "age": 76,
+    "car": {
+      "id": 9,
+      "model": "Ferrari",
+      "color": "red",
+      "personId": null,
+      "person": null
+    }
+  },
+  {
+    "id": 42,
+    "name": "Vladimir",
+    "age": 76,
+    "car": {
+      "id": 9,
+      "model": "Ferrari",
+      "color": "red",
+      "personId": null,
+      "person": null
+    }
+  },
+  {
+    "id": 43,
+    "name": "Vasiliy",
+    "age": 13,
+    "car": null
+  },
+  {
+    "id": 44,
+    "name": "Vladimir",
+    "age": 76,
+    "car": null
+  },
+  {
+    "id": 45,
+    "name": "Petr",
+    "age": 45,
+    "car": {
+      "id": 38,
+      "model": "Ferrari",
+      "color": "red",
+      "personId": 45,
+      "person": null
+    }
+  }
+]
